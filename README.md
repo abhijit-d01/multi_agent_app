@@ -2,7 +2,8 @@
 
 ## **1\. Architecture Overview**
 
-![Architecture Diagram](/Sales Dataset/Architecture.png)
+![Architecture Diagram](./Architecture.png)
+
 This application is built on a **Multi-Agent System (MAS)** architecture using **LangChain** and **Google Gemini** (Gemini 2.5 Flash). Instead of a single AI trying to do everything, the responsibilities are split into two specialized agents: one for logical execution and one for communication.
 
 ### **Key Technologies**
