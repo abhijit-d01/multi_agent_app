@@ -2,7 +2,7 @@
 
 ## **1\. Architecture Overview**
 
-![Architecture Diagram](./Architecture.png)
+![Architecture Diagram](./Images/Architecture.png)
 
 This application is built on a **Multi-Agent System (MAS)** architecture using **LangChain** and **Google Gemini** (Gemini 2.5 Flash). Instead of a single AI trying to do everything, the responsibilities are split into two specialized agents: one for logical execution and one for communication.
 
@@ -60,7 +60,12 @@ When a user asks a question (e.g., "Which SKU sold the most?"), the system follo
 
 `streamlit run app.py`
 
-## **5\. Screenshots:** **![][image2]![][image3]![][image4]**
+## **5\. Screenshots:** 
+![](./Images/image1.png)
+
+![](./Images/image2.png)
+
+![](./Images/image3.png)
 
 ## **6\. Production Readiness Roadmap**
 
