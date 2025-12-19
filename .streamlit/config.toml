@@ -1,0 +1,12 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+address = "0.0.0.0"
+enableWebsocketCompression = false
+
+[browser]
+gatherUsageStats = false
+
+[global]
+runOnSave = true
